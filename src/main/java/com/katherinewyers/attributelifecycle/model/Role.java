@@ -1,4 +1,4 @@
-package com.katherinewyers.identityvault.model;
+package com.katherinewyers.attributelifecycle.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;

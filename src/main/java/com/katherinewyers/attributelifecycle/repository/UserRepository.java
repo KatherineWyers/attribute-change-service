@@ -1,6 +1,6 @@
-package com.katherinewyers.identityvault.repository;
+package com.katherinewyers.attributelifecycle.repository;
 
-import com.katherinewyers.identityvault.model.User;
+import com.katherinewyers.attributelifecycle.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
