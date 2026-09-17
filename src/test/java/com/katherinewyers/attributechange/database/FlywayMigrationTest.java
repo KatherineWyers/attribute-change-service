@@ -1,4 +1,4 @@
-package com.katherinewyers.attribute.database;
+package com.katherinewyers.attributechange.database;
 
 import org.flywaydb.core.Flyway;
 import org.junit.jupiter.api.Test;
