@@ -1,7 +1,7 @@
 services:
   postgres:
     image: postgres:17
-    container_name: attribute-lifecycle-db
+    container_name: attribute-change-db
     restart: unless-stopped
     environment:
       POSTGRES_DB: ${POSTGRES_DB}

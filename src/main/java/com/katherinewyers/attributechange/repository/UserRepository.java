@@ -1,6 +1,6 @@
-package com.katherinewyers.attributelifecycle.repository;
+package com.katherinewyers.attributechange.repository;
 
-import com.katherinewyers.attributelifecycle.model.User;
+import com.katherinewyers.attributechange.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

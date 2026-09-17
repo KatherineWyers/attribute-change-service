@@ -1,4 +1,4 @@
-package com.katherinewyers.attributelifecycle.controller;
+package com.katherinewyers.attributechange.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

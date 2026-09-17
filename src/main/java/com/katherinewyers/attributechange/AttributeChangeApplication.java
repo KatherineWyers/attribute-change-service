@@ -1,13 +1,13 @@
-package com.katherinewyers.attributelifecycle;
+package com.katherinewyers.attributechange;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AttributeLifecycleApplication {
+public class AttributeChangeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AttributeLifecycleApplication.class, args);
+		SpringApplication.run(AttributeChangeApplication.class, args);
 	}
 
 }

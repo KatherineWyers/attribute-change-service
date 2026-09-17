@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.katherinewyers</groupId>
-	<artifactId>attribute-lifecycle-service</artifactId>
+	<artifactId>attribute-change-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Attribute Lifecycle Service</name>
-	<description>Identity attribute lifecycle, verification, and propogation service for Digital Public Infrastructure</description>
+	<name>Attribute Change Service</name>
+	<description>Service for modeling and managing identity attribute changes over a distributed digital infrastructure</description>
 	<url/>
 	<licenses>
 		<license/>

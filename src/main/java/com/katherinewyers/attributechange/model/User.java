@@ -1,4 +1,4 @@
-package com.katherinewyers.attributelifecycle.model;
+package com.katherinewyers.attributechange.model;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
