@@ -39,7 +39,7 @@ class FlywayMigrationTest {
     @Test
     void allMigrationsShouldApplyWithNoPending() {
         assertThat(flyway.info().pending()).isEmpty();
-        assertThat(flyway.info().applied()).hasSize(3);
+        assertThat(flyway.info().applied()).hasSize(4);
     }
 
     @Test
@@ -50,6 +50,11 @@ class FlywayMigrationTest {
     @Test
     void rolesTableShouldExist() {
         assertThat(tableExists("roles")).isTrue();
+    }
+
+    @Test
+    void personsTableShouldExist() {
+        assertThat(tableExists("persons")).isTrue();
     }
 
     @Test
